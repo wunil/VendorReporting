@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Data / artifacts (never check these in)
+*.db
+*.sqlite
+*.csv
+*.xlsx
+*.xls
+data/
+*_log.txt
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
